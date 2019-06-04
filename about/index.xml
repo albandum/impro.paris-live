@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>À propos de Hugo on Ligue d&#39;improvisation de Paris - LIP</title>
+    <link>https://impro.paris/about/</link>
+    <description>Recent content in À propos de Hugo on Ligue d&#39;improvisation de Paris - LIP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://impro.paris/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O Hugo</title>
+      <link>https://impro.paris/about/_index.pl/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://impro.paris/about/_index.pl/</guid>
+      <description>Hugo to statyczny silnik strony napisany w Go.
+Korzysta z różnych projektów open source, w tym:
+ Cobra Viper J Walter Weatherman Cast  Dowiedz się więcej i wesprzyj na GitHub.
+Ustawiać Kilka ciekawych faktów na temat Hugo:
+ Wbudowany Go Luźno zainspirowany przez Jekyll Głównie opracowany przez spf13 w pociągu podczas podróży do iz Manhattanu. Zakodowane w Vim przy użyciu spf13-vim  Masz pytania lub sugestie? Zapraszam do otwarcia problemu na GitHub lub zapytaj mnie na Twitterze.</description>
+    </item>
+    
+  </channel>
+</rss>

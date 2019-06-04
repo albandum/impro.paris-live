@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Ligue d&#39;improvisation de Paris - LIP</title>
+    <link>https://impro.paris/categories/hugo/</link>
+    <description>Recent content in Hugo on Ligue d&#39;improvisation de Paris - LIP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://impro.paris/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We&#39;ll be back... très bientôt !</title>
+      <link>https://impro.paris/blog/hugoisforlovers/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://impro.paris/blog/hugoisforlovers/</guid>
+      <description>Petite parenthèse Le site de la LIP a reçu la visite d&amp;rsquo;un hacker pas très sympathique, donc on a fait une petite pause&amp;hellip; Mais on va être de retour, plus forts, avec un slip bleu.
+En attendant toutes nos infos sont sur Facebook :)
+See you soon !</description>
+    </item>
+    
+  </channel>
+</rss>
