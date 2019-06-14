@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ligue d&#39;improvisation de Paris - LIP</title>
-    <link>https://impro.paris/</link>
-    <description>Recent content on Ligue d&#39;improvisation de Paris - LIP</description>
+    <title>LIP on Ligue d&#39;improvisation de Paris - LIP</title>
+    <link>https://impro.paris/categories/lip/</link>
+    <description>Recent content in LIP on Ligue d&#39;improvisation de Paris - LIP</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://impro.paris/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://impro.paris/categories/lip/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,15 +30,6 @@ Au-delà de l&amp;rsquo;impro et d&amp;rsquo;une attention poussée à la format
       <description>Petite parenthèse Le site de la LIP a reçu la visite d&amp;rsquo;un hacker pas très sympathique, donc on a fait une petite pause&amp;hellip; Mais on va être de retour, plus forts, avec un slip bleu.
 En attendant toutes nos infos sont sur Facebook :)
 See you soon !</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://impro.paris/contact/_index.pl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://impro.paris/contact/_index.pl/</guid>
-      <description></description>
     </item>
     
   </channel>

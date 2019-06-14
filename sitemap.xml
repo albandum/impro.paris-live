@@ -4,46 +4,47 @@
   
   <url>
     <loc>https://impro.paris/blog/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://impro.paris/categories/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://impro.paris/categories/hugo/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <loc>https://impro.paris/categories/lip/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://impro.paris/about/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://impro.paris/blog/recrutement/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://impro.paris/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://impro.paris/blog/hugoisforlovers/</loc>
+    <loc>https://impro.paris/categories/recrutement/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://impro.paris/blog/lipsite/</loc>
     <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://impro.paris/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://impro.paris/about/_index.pl/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://impro.paris/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
