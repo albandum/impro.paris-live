@@ -3,60 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://impro.paris/blog/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://impro.paris/categories/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://impro.paris/categories/lip/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://impro.paris/about/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://impro.paris/blog/recrutement/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://impro.paris/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://impro.paris/categories/recrutement/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://impro.paris/blog/lipsite/</loc>
+    <loc>https://impro.paris/blog/lipsite.fr/</loc>
     <lastmod>2019-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://impro.paris/contact/</loc>
+    <loc>https://impro.paris/blog/</loc>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://impro.paris/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://impro.paris/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://impro.paris/contact/"
+                />
   </url>
   
   <url>
-    <loc>https://impro.paris/contact/_index.pl/</loc>
+    <loc>https://impro.paris/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://impro.paris/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://impro.paris/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://impro.paris/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://impro.paris/categories/lip/</loc>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://impro.paris/</loc>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
